@@ -1,0 +1,4 @@
+#tudo aqui dentro o git vai ignorar
+
+.env
+/.venv
